@@ -6,7 +6,7 @@
     <h1>
         Hello Everynyan!!
         <br>
-        I'm Resen 👋
+        I'm Henrii 👋
     </h1>
     <h3>
         A little introvert in the big world of programming...
@@ -16,14 +16,13 @@
 <br>
 
 <div align="center" width="100%" style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://img.shields.io/github/followers/resenkkomj?color=236ad3&style=for-the-badge&logo=github&label=Follow" alt="followers"/>
-    <img src="https://img.shields.io/github/stars/resenkkomj?color=ffd700&style=for-the-badge&label=⭐ Stars" alt="stars">
-    <img src="https://komarev.com/ghpvc/?username=resenkkomj&color=brightgreen&style=for-the-badge&label=👁️%20Visitors" alt="watching_count"/>
+    <img src="https://img.shields.io/github/followers/henriisylvan?color=236ad3&style=for-the-badge&logo=github&label=Follow" alt="followers"/>
+    <img src="https://img.shields.io/github/stars/henriisylvan?color=ffd700&style=for-the-badge&label=⭐ Stars" alt="stars">
+    <img src="https://komarev.com/ghpvc/?username=henriisylvan&color=brightgreen&style=for-the-badge&label=👁️%20Visitors" alt="watching_count"/>
 </div>
 
 # About me <img src="./src/gif/komi-nervous.gif" alt="Komi-san nervous" height="50" loading="lazy">
 
-- 🚀 My Real Name is: ***Henrique***
 - 📍 I'm from: ***Brazil***
 - 🏷️ Pronouns: ***He/Him***
 - 🔭 I’m currently working on: ***My self*** 😃
@@ -33,9 +32,6 @@
     ```js
     console.log(8 + true); // Prints: 9
     ```
-
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
 
 ## Programming skills 🛠️
 
@@ -52,40 +48,40 @@
 
 <div align="center" width="100%"  style="display: flex; justify-content: center; gap: 1.5%;">
     <a href="mailto:resen5.5is2952@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"></a>
-    <a href="https://instagram.com/resen_komeiji" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"></a>
+    <a href="https://instagram.com/henriisylvan" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"></a>
     <a href="https://discordapp.com/users/920673443798736937" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"></a>
     <a href="https://www.linkedin.com/in/henrique-da-silva-oliveira-1705972a2" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"></a>
     <!-- <a href="" target="_blank"><img src="	https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt=" Badge"></a> -->
     <!-- <a href="" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"></a> -->
 </div>
+ 
+<!-- ## Support me 💛 -->
 
-## Support me 💛
-
-<h4 align="center">Feel free if you want to support me financially.</h4>
-<div align="center" width="100%"  style="display: flex; justify-content: center; gap: 1.5%;">
-    <a href="https://tipa.ai/resen" target="_blank"><img src="./src/img/tipaai-badge.png" alt="Tipa.ai Badge"></a>
-    <a href="https://ko-fi.com/resen" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi Badge"></a>
-</div>
+<!-- <h4 align="center">Feel free if you want to support me financially.</h4> -->
+<!-- <div align="center" width="100%"  style="display: flex; justify-content: center; gap: 1.5%;"> -->
+<!--     <a href="https://tipa.ai/resen" target="_blank"><img src="./src/img/tipaai-badge.png" alt="Tipa.ai Badge"></a> -->
+<!--     <a href="https://ko-fi.com/resen" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi Badge"></a> -->
+<!-- </div> -->
 
 ## Statistics 📊
 
 <div align="center" width="100%" style="display: flex; justify-content: space-between;">
-    <img src="https://raw.githubusercontent.com/resenkkomj/resenkkomj/gh-stats-output/gh-stats.svg" alt="Resen's GitHub stats" width="54.5%">
-    <img src="https://raw.githubusercontent.com/resenkkomj/resenkkomj/gh-stats-output/gh-top-lang.svg" alt="Top Languages" width="42%">
+    <img src="https://raw.githubusercontent.com/henriisylvan/henriisylvan/gh-stats-output/gh-stats.svg" alt="Resen's GitHub stats" width="54.5%">
+    <img src="https://raw.githubusercontent.com/henriisylvan/henriisylvan/gh-stats-output/gh-top-lang.svg" alt="Top Languages" width="42%">
 </div>
 
 ## Main Repositories 📁
 
 <div align="center" width="100%" style="display: flex; justify-content: space-between;">
-    <a href="https://github.com/resenkkomj/instagram-save-downloader" width="50%">
-        <img src="https://raw.githubusercontent.com/resenkkomj/resenkkomj/gh-stats-output/main-repo01.svg" alt="Main Repo 1" width="49%">
+    <a href="https://github.com/henriisylvan/instagram-save-downloader" width="50%">
+        <img src="https://raw.githubusercontent.com/henriisylvan/henriisylvan/gh-stats-output/main-repo01.svg" alt="Main Repo 1" width="49%">
     </a>
-    <a href="https://github.com/resenkkomj/IFCuida" width="50%">
-        <img src="https://raw.githubusercontent.com/resenkkomj/resenkkomj/gh-stats-output/main-repo02.svg" alt="Main Repo 2" width="49%">
+    <a href="https://github.com/henriisylvan/IFCuida" width="50%">
+        <img src="https://raw.githubusercontent.com/henriisylvan/henriisylvan/gh-stats-output/main-repo02.svg" alt="Main Repo 2" width="49%">
     </a>
 </div>
 
 #
 
-![Snake Game Dark](https://raw.githubusercontent.com/resenkkomj/resenkkomj/snake-game-output/github-snake-dark.svg#gh-dark-mode-only)
-![Snake Game Light](https://raw.githubusercontent.com/resenkkomj/resenkkomj/snake-game-output/github-snake-light.svg#gh-light-mode-only)
+![Snake Game Dark](https://raw.githubusercontent.com/henriisylvan/henriisylvan/snake-game-output/github-snake-dark.svg#gh-dark-mode-only)
+![Snake Game Light](https://raw.githubusercontent.com/henriisylvan/henriisylvan/snake-game-output/github-snake-light.svg#gh-light-mode-only)
